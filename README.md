@@ -7,4 +7,4 @@ The thesis was based on an older version of Quiver, which has callback-based API
 
 Other than that, the foundation [architecture constructs](https://github.com/quiverjs/quiverjs/wiki/Architecture-Constructs) presented in this thesis have largely remain the same, other than switching to promise-based control flow.
 
-[Download the PDF](thesis.pdf)
+[Download the PDF](quiver-thesis.pdf?raw=true)
